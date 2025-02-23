@@ -1,4 +1,3 @@
-// JavaScript function triggered by button click
-function buttonClicked() {
-    alert("Welcome! Your journey begins now.");
+function showAlert() {
+    alert("Welcome to Rekdu! Start your learning journey today.");
 }
